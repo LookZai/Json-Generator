@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Console_LookZay": {
+      "commandName": "Project"
+    },
+    "jsoncreator": {
+      "commandName": "Project"
+    }
+  }
+}
