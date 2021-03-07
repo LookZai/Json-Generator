@@ -44,7 +44,7 @@ namespace Console_LookZay
             }
             else if (input == "3")
             {
-                credits();
+                credits(); 
             }
             else if (input == "4")
             {
