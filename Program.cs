@@ -6,7 +6,7 @@ using System.IO;
 
 namespace Console_LookZay
 {
-    class Main
+    class Program
     {
 
         static void Main(string[] args)
